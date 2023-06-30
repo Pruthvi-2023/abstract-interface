@@ -27,12 +27,10 @@ public class CreatingArrays {
 			index++;
 		}
 
-		System.out.println("now printing using forEach loop");
-
-		for (String name : names) {
-			if (name != null) {
-				System.out.println(name);
-			}
-		}
+		/*
+		 * System.out.println("now printing using forEach loop");
+		 * 
+		 * for (String name : names) { if (name != null) { System.out.println(name); } }
+		 */
 	}
 }
